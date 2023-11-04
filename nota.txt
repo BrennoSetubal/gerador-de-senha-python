@@ -1,0 +1,7 @@
+Ola sou o densenvolvedor do script.
+
+Existe 2 versoes:
+
+Uma simples onde oterminal não vem colorido;
+
+E a segunda que para usar o script com o terminal colorido voce tem que instalar a biblioteca colorama com o comando pip install colorama;
