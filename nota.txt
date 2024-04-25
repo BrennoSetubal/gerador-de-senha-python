@@ -1,5 +1,3 @@
-Ola sou o densenvolvedor do script.
-
 Existe 2 versoes:
 
 Uma simples onde oterminal não vem colorido;
