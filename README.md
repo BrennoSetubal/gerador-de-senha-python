@@ -6,3 +6,5 @@ Basta fazer o download e execultar o arquivo main.py
 
 # Onde sera salvo as senhas?
 Todas as senhas seram salvas no aquivo senhas_salvas.txt
+# Você deve instalar a biblioteca colorama
+esse é o comando: "pip install colorama"
